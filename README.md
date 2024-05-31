@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey there! My name is Rahul Kumar 👋
 
-<!--
-**rahulbkumar/rahulbkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a little more about me:
 
-Here are some ideas to get you started:
+- 🎓 Studying Computer Engineering at the University of Waterloo. 
+- 👨🏽‍💻 I'm currently interested in Data Science, Machine Learning, and Brain-Computer-Interfaces
+- 🦾 I'm always looking to meet new people and participate in cool oppurtunities. You can reach out to me at r77kumar@uwaterloo.ca or on Twitter: @_rahkumar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Favourite Quote:
+---
+> Complaining about not achieving success despite working hard is like complaining about an ice cube not melting when you heated it from twenty-five to thirty-one degrees. Your work was not wasted; it is just being stored. All the action happens at thirty-two degrees.
+
+— James Clear

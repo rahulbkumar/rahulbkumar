@@ -3,7 +3,7 @@
 Here's a little more about me:
 
 - 🎓 Studying Computer Engineering at the University of Waterloo. 
-- 👨🏽‍💻 I'm currently interested in Data Science, Machine Learning, and Brain-Computer-Interfaces
+- 👨🏽‍💻 Interested in Data Science, Machine Learning, and Brain-Computer-Interfaces
 - 🦾 I'm always looking to meet new people and participate in cool oppurtunities. You can reach out to me at r77kumar@uwaterloo.ca or on Twitter: @_rahkumar
 
 Favourite Quote: 📖

@@ -13,3 +13,5 @@ Favourite Quote: 📖
 > Complaining about not achieving success despite working hard is like complaining about an ice cube not melting when you heated it from twenty-five to thirty-one degrees. Your work was not wasted; it is just being stored. All the action happens at thirty-two degrees.
 
 — James Clear
+
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.3; background: url('https://github.com/rahulbkumar/rahulbkumar/raw/master/matrix.webp');]{x0000}$}

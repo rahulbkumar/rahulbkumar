@@ -1,4 +1,4 @@
-Hey there! I'm Rahul!
+Hey there, I'm Rahul!
 
 I study Computer Engineering at the University of Waterloo. 
 
